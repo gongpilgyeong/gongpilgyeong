@@ -1,4 +1,5 @@
-### Hi there 👋
+### 🔨Stack🔧
+<img src="https://img.shields.io/badge/Python-#3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 <!--
 **pilgyeong/pilgyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,6 +13,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<a href="https://https://velog.io/@gpg" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+- 🔨Stack🔧
 -->
