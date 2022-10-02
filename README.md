@@ -1,9 +1,13 @@
-### 🔨Stack🔧
+### Hi there, I'm Gong Pilgyeong
+### Stack 💻
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Google Analytics-E37400?style=flat-square&logo=Google Analytics&logoColor=white"/>
 
-### 🤖It's me🎈
+### It's me 🎈
 <a href="https://velog.io/@gpg" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
+### Stats 📊
+![GPG's Github stats](https://github-readme-stats.vercel.app/api?username=pilgyeong&show_icons=true&theme=tokyonight)
+![GPG's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=pilgyeong&layout=compact&theme=tokyonight)
 
 <!--
 **pilgyeong/pilgyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
