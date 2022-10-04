@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=05776F&height=200&section=header&text=I'm%Pilgyeong%Gong&fontSize=90" /)
-
 ### I'm Pilgyeong Gong 🎈
 <a href="https://velog.io/@gpg" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> <a href="mailto:gpgdatalab@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
