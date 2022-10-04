@@ -1,8 +1,11 @@
 ### I'm Pilgyeong Gong 🎈
 <a href="https://velog.io/@gpg" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a> <a href="mailto:gpgdatalab@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-### Languages and Tools 💻
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Google Analytics-E37400?style=flat-square&logo=Google Analytics&logoColor=white"/>
+### Languages 💻
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> 
+
+### Tools ⚒
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Google Analytics-E37400?style=flat-square&logo=Google Analytics&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
 ### Career 🏢
 | PERIOD | COMPANY | DEPARTMENT | POSITION |
@@ -19,9 +22,9 @@
 | 2021.08 - 2022.03 | NIA AI학습용데이터 구축전략 및 과제발굴 | 음성・자연어 분야 구축 전략 수립 및 과제(RFP 64개 작성) 발굴 |
 
 ### Certificate 📜
-빅데이터분석기사
-ADsP
-투자자산운용사
+- 빅데이터분석기사 (2022.07.16)
+- ADsP (2021.04.09)
+- 투자자산운용사 (2020.06.07)
 
 ### Stats 📊
 ![GPG's Github stats](https://github-readme-stats.vercel.app/api?username=pilgyeong&show_icons=true&theme=tokyonight)
