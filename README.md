@@ -24,6 +24,11 @@ That's why I'm interested in data engineers and analysis, studying the entire pr
 ### Tools ⚒
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Google Analytics-E37400?style=flat-square&logo=Google Analytics&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
+<br />
+<br />
+
+---
+
 ### Career 🏢
 | PERIOD | COMPANY | DEPARTMENT | POSITION |
 | ------- | ------- | ------- | ------- | 
