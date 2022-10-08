@@ -4,6 +4,8 @@ I'm **Pilgyeong Gong**, Data Consultant (Junior) from Korea 🇰🇷. It works t
 That's why I'm interested in data engineers and analysis, studying the entire process of data flow.
 
 ### Connect with me:
+[<img align="left" alt="Portfolio" src="./img/globe-light.svg" height="26px" style="padding-right:10px;" />]([https://portfolio-jaeha.vercel.app](https://gpglab.tistory.com)#gh-light-mode-only)
+[<img align="left" alt="Portfolio" src="./img/globe-dark.svg" height="26px" style="padding-right:10px;" />]([https://portfolio-jaeha.vercel.app](https://gpglab.tistory.com)#gh-dark-mode-only)
 
 <a href="https://gpglab.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a> <a href="mailto:gpgdatalab@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
