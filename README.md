@@ -34,6 +34,8 @@ I'm **Pilgyeong Gong**, Data Consultant (Junior) from Korea 🇰🇷.
 - ADsP (2021.04.09)
 - 투자자산운용사 (2020.06.07)
 
+<!--
 ### Stats 📊
 ![GPG's Github stats](https://github-readme-stats.vercel.app/api?username=pilgyeong&show_icons=true&theme=tokyonight)
 ![GPG's Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=pilgyeong&layout=compact&theme=tokyonight)
+-->
