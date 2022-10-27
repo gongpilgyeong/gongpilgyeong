@@ -14,7 +14,7 @@ I'm **Pilgyeong Gong**, Data Consultant (Junior) from Korea 🇰🇷.
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Google Analytics-E37400?style=flat-square&logo=Google Analytics&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
 ### Studying:
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=Amazon AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 
 ---
 
