@@ -5,7 +5,7 @@ I'm **Pilgyeong Gong**, Data Consultant (Junior) from Korea 🇰🇷.
 - 💻 That's why I'm interested in data engineers and analysis, studying the entire process of data flow.
   
 #### Connect with me:
-<a href="https://gpglab.tistory.com" target="_blank"> <img src="https://img.shields.io/badge/Tech Blog-000000?style=round-square&logo=Tistory&logoColor=white"/></a> <a href="mailto:gpgdatalab@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://ggongham.notion.site/Data-Analyst-c0facedbb03345708508aa514239a7e6" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-000000?style=round-square&logo=Notion&logoColor=white"/><a href="https://gpglab.tistory.com" target="_blank"> <img src="https://img.shields.io/badge/Tech Blog-000000?style=round-square&logo=Tistory&logoColor=white"/></a> <a href="mailto:gpgdatalab@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white"/></a>
 
 ---
 
