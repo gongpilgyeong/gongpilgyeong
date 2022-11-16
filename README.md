@@ -5,7 +5,7 @@ I'm **Pilgyeong Gong**, Data Consultant (Junior) from Korea 🇰🇷.
 - 💻 That's why I'm interested in data engine and analysis, studying the entire process of data flow.
   
 #### Connect with me:
-<a href="https://gpgportfolio.notion.site" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=round-square&logo=Notion&logoColor=white"/> <a href="https://gpglab.tistory.com" target="_blank"> <img src="https://img.shields.io/badge/Tech Blog-000000?style=round-square&logo=Tistory&logoColor=white"/></a> <a href="mailto:gpgdatalab@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/gongpilgyeong" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=round-square&logo=LinkedIn&logoColor=white"/></a>
+<a href="https://gpgportfolio.notion.site" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=round-square&logo=Notion&logoColor=white"/> <a href="https://gpglab.tistory.com" target="_blank"> <img src="https://img.shields.io/badge/Tech Blog-000000?style=round-square&logo=Tistory&logoColor=white"/></a> <a href="mailto:gpgdatalab@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=round-square&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/gongpilgyeong" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=round-square&logo=LinkedIn&logoColor=white"/></a> <a href="https://www.linkedin.com/in/gongpilgyeong" target="_blank"> <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=Docker&logoColor=white"/></a>
 
 ---
 
