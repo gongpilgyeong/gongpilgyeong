@@ -23,7 +23,7 @@ I'm **Pilgyeong Gong**, Data Consultant (Junior) from Korea 🇰🇷.
 ### Career 🏢
 | PERIOD | COMPANY | DEPARTMENT | POSITION |
 | ------- | ------- | ------- | ------- | 
-| 2021.08 - 현재 | 한국능률협회컨설팅 | Data Business Division | Associate Consultant |
+| 2021.08 - 현재 | 한국능률협회컨설팅 | Data Business Division Dept. | Associate Consultant |
 | 2021.04 - 2021.08 | 투이컨설팅 | Public Strategy Business Unit | Research Assistant |
 
 ### Project 🏆
