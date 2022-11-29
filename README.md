@@ -29,7 +29,8 @@ I'm **Pilgyeong Gong**, Data Consultant (Junior) from Korea 🇰🇷.
 ### Project 🏆
 | PERIOD | TITLE | CONTENTS |
 | ------- | ------- | ------- |
-| 2022.05 - 2022.12 | NIA 정보화사업 성과관리 | TF-IDF/Logistic Regression 활용 Document similarity & Q&A(SR) Analysis |
+| 2022.06 - 2022.10 | 삼성전자 B2B 수요조사 및 예측모델링 | input data 추출을 위한 query 작성 및 data feature engineering |
+| 2022.05 - 2022.12 | NIA 정보화사업 성과관리 | TF-IDF/Logistic Regression 활용 Document similarity & Q&A(SR) Analysis, 이행점검 과제에 대한 비용 성과분석 |
 | 2022.08 - 2022.10 | KOTRA 공공데이터 품질관리 컨설팅 | 공사 DB 품질진단 및 개선, 품질관리 수준평가 대응 |
 | 2022.01 - 2022.05 | HUG 보증이행・채권관리 업무체계 개선 | ARIS PPM 활용 Process Mining, SDQ 활용 DB 품질진단 및 개선 |
 | 2021.08 - 2022.03 | NIA AI학습용데이터 구축전략 및 과제발굴 | 음성・자연어 분야 구축 전략 수립 및 과제(RFP 64개 작성) 발굴 |
