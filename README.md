@@ -10,8 +10,8 @@ I'm **Pilgyeong Gong**, Data Consultant (Junior) from Korea 🇰🇷.
 ---
 
 #### Languages:
-<img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"/> \
-  <img src="https://img.shields.io/badge/C++-00599C?style=round-square&logo=c&logoColor=white"/> 
+\ <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=round-square&logo=c&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/> 
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=round-square&logo=PostgreSQL&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MariaDB-1F305F?style=round-square&logo=MariaDB Foundation&logoColor=white"/> 
