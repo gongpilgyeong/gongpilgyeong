@@ -1,6 +1,6 @@
 ## Hello world, Nice to see you. 🎈
 Welcome to my page!
-I'm **Pilgyeong Gong**, Data Consultant (Junior) from Korea 🇰🇷.
+I'm **Pilgyeong Gong**, Data Analyst & Consultant (Junior) from Korea 🇰🇷.
 - 💼 It works to help solve business problems based on data analysis.
 - 💻 That's why I'm interested in data engine and analysis, studying the entire process of data flow.
   
