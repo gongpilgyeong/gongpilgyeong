@@ -11,7 +11,7 @@ I'm **Pilgyeong Gong**, currently working as a Data Consultant in Korea 🇰🇷
 ---
   
 
-#### Languages & Framework:
+#### Tech Stack:
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=round-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=round-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=round-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=round-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=Docker&logoColor=white"/>
   
 #### Tools:
