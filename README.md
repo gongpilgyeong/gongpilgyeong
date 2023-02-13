@@ -1,4 +1,4 @@
-## Hello world, I'm GPG 🎈
+## Hello world, Welcome to my page 🎈
 
 I'm **Pilgyeong Gong**, currently working as a Data Consultant in Korea 🇰🇷.
 
