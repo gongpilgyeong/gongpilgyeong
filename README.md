@@ -12,5 +12,5 @@ I'm **Pilgyeong Gong**, currently working as a Data Consultant in Korea 🇰🇷
 
 <!--
 #### Studying:
-<img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=round-square&logo=Apache Spark&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=round-square&logo=ApacheHadoop&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=round-square&logo=Apache Kafka&logoColor=white"/> <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=round-square&logo=Amazon AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=round-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Spark-E25A1C?style=round-square&logo=Apache Spark&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Hadoop-66CCFF?style=round-square&logo=ApacheHadoop&logoColor=white"/> <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=round-square&logo=Apache Kafka&logoColor=white"/> 
 -->
