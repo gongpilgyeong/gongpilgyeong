@@ -6,7 +6,7 @@ I'm **Pilgyeong Gong**, currently working as a Data Consultant in Korea 🇰🇷
 
 ### Stack:
 <img src="https://img.shields.io/badge/Python-3776AB?style=round-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=round-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=round-square&logo=MySQL&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Oracle-F80000?style=round-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/docker-2496ED?style=round-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS Cloud-232F3E?style=round-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=round-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=round-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=round-square&logo=amazonaws&logoColor=white"/>
 
 <!--
 ### Studying:
